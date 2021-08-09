@@ -35,9 +35,9 @@ Using visuals for the various pollutants and bacterium present in the streams, p
 ### What did you do to the data? 
 * Cleaning
 * Analysis
-* * QGIS analysis and projetions
-* * little bit of pandas just to look inside the data and see where my null values were present and the cleanliness of the data.
-* *  
+  * QGIS analysis and projetions
+  * little bit of pandas just to look inside the data and see where my null values were present and the cleanliness of the data.
+  *  
 
 ### Aweful failures/dead ends?
 - Started out thinking that I could overlay the water quality testing data with the neighborhood demographic data and understand the water quality in different neighborhoods, analyzing them based on income, race/ethnicity, etc.  The data for the testing analysis is not robust enough and needs to be extrapoliated/sliced to fit neatly into the neighborhoods for analysis. (see future improvements section)
