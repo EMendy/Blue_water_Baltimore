@@ -51,7 +51,14 @@ Using visuals for the various pollutants and bacterium present in the streams, p
 ### Final Product? 
 
 ### Things you wish you knew that you didn't know
+* People I'd like to speak with:
+1. I'd like to work with the researchers at the BWB institute to put together a total score or a risk factor of some sort that can take into account these various parameters that were collected and continue to be collected over time.  The current presentation of the data to the public is a good first step, but no one knows when the PH is X and the Total Phosphorous is X whether or not they should let their dog drink from the stream or allow their children to play in the water.  The most useful application of this data for the public is to create BOTH a scientific resource and a digestible and applicable resource for users who are not familiar with the scientific parameters.  
+2. I'd like to expand the inputs to the surrounding areas, as the upstream locations obviously affect the water quality of those of us downstream in the city where the rivers and streams enter the bay.
+3. I'd like to speak with people who live, play, exercise, etc near these various waterways throughout the city and up into the northern areas where the non-tidal data collection takes place.  Their experience and understanding of the waterways, health of the systems, interraction with the systems, undestanding and awareness of the BWB research and cleanup efforts, etc. 
+
+
 ### Future Improvements
 1.  Categorize the various testing sites and rivers/streams associated with them to the neighborhoods through which they flow so that the data can be merged with the CSA data. 
 2.  Further analysis can be done on the health of waterways in neighborhoods (i.e. access to clean waterways in low-income neighborhoods, neighborhoods of predominantly minority populations, proximity to industry, etc)
+3.  Want to make a scsrollitelling report that is continually updated similar to the Rosling project we did with Gurman and Jeremiah.  The data will show the changes in the selected pollutant or measurement overtime throughout the city's watershed. 
 
