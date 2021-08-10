@@ -3,14 +3,18 @@ Lede project using BWB data and Baltimore City Open Baltimore data to understand
 
 ## Methodology
 
-Using QGIS overlay the three data sets.
+Using QGIS overlay the data for visual analysis and transformation. 
 
-Using python understand what the chances are of the waterways being heavilly polluted given the income and racial concentration of the residents in any particular area of the city. 
+Using python to clean, analyze and transform data to be ready for upload into mapping tools for visualization and presentation
 
-Using visuals for the various pollutants and bacterium present in the streams, present the current states of the city's waterways over the years for which data was collected and allow the reader to understand the pollutants present in a particular aera/neighborhood. 
+
+Using visuals in Mapbox/Datawrapper for the various pollutants and bacterium present in the streams, present the current states of the city's waterways over the years for which data was collected and allow the reader to understand the pollutants present in a particular aera/neighborhood. 
+
+Use D3 for creation of the scrollitelling of the changes in the streams over time from 2013 to 2020. 
 
 
 ## Data Sources
+
 * [Blue Water Baltimore](https://baltimorewaterwatch.org/download-data)
   * From the data terms of the BWB data: "Description of Data. Data consists of water quality data resulting from water quality studies of the Baltimore Harbor and contributing watersheds conducted by or for BWB from 2013 through 2018 (the “Data”) and may include pertinent available biological, chemical, and physical parameters pursuant to the above-referenced studies. BWB may elect at any time to restrict access to all or part of the Data for any reason." 
   * [Terms](https://baltimorewaterwatch.org/parameters)
@@ -39,7 +43,7 @@ Using visuals for the various pollutants and bacterium present in the streams, p
 * Analysis
   * QGIS analysis and projetions
   * little bit of pandas just to look inside the data and see where my null values were present and the cleanliness of the data.
-  *  
+  
 
 ### Aweful failures/dead ends?
 - Started out thinking that I could overlay the water quality testing data with the neighborhood demographic data and understand the water quality in different neighborhoods, analyzing them based on income, race/ethnicity, etc.  The data for the testing analysis is not robust enough and needs to be extrapoliated/sliced to fit neatly into the neighborhoods for analysis. (see future improvements section)
@@ -48,8 +52,9 @@ Using visuals for the various pollutants and bacterium present in the streams, p
 
 
 ### Struggles with the work?
+
 - Struggled to understand the most optimal way to present the data (Data Wrapper, MapBox, QGIS, etc) and spent time fumbling around in each to see.  Wasted a lot of time this way just learning how to get this to work. 
-- 
+
 ### Final Product? 
 
 ### Things you wish you knew that you didn't know
